@@ -1,0 +1,67 @@
+{
+    "produtos":
+    [
+        {
+            "avr":
+            {
+                "id":1,
+                "nome": "AVR",
+                "autoDiags":
+                [
+                    {
+                        "cod": "0000",
+                        "desc": "Sem falhas",
+                        "cause": "...",
+                        "action": "..."
+                    },
+                    {
+                        "cod": "0001",
+                        "desc": "Falha de comunicação entre microcontroladores",
+                        "cause": "Falha interna",
+                        "action": "Contatar a assistência técnica"
+                    }
+                ]
+            },
+            "bm":
+            {
+                "id":2,
+                "nome": "BM",
+                "autoDiags":
+                [
+                    {
+                        "cod": "0000",
+                        "desc": "Sem falhas",
+                        "cause": "...",
+                        "action": "..."
+                    },
+                    {
+                        "cod": "0001",
+                        "desc": "Overflow na medição do RTD",
+                        "cause": "Falha interna",
+                        "action": "Contatar a assistência técnica"
+                    }
+                ]
+            },
+            "idm-sdm":
+            {
+                "id":2,
+                "nome": "IDM-SDM",
+                "autoDiags":
+                [
+                    {
+                        "cod": "0000",
+                        "desc": "Sem falhas",
+                        "cause": "...",
+                        "action": "..."
+                    },
+                    {
+                        "cod": "0001",
+                        "desc": "Falha na parametrização guardada na memória flash ",
+                        "cause": "Falha interna",
+                        "action": "Contatar a assistência técnica"
+                    }
+                ]
+            }
+        }
+    ]
+}
