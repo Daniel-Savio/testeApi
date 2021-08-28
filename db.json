@@ -1,13 +1,10 @@
 {
-    "produtos":
-    [
+    "produtos": [
         {
-            "avr":
-            {
-                "id":1,
+            "avr": {
+                "id": 1,
                 "nome": "AVR",
-                "autoDiags":
-                [
+                "autoDiags": [
                     {
                         "cod": "0000",
                         "desc": "Sem falhas",
@@ -22,12 +19,10 @@
                     }
                 ]
             },
-            "bm":
-            {
-                "id":2,
+            "bm": {
+                "id": 2,
                 "nome": "BM",
-                "autoDiags":
-                [
+                "autoDiags": [
                     {
                         "cod": "0000",
                         "desc": "Sem falhas",
@@ -42,12 +37,10 @@
                     }
                 ]
             },
-            "idm-sdm":
-            {
-                "id":2,
+            "idm-sdm": {
+                "id": 2,
                 "nome": "IDM-SDM",
-                "autoDiags":
-                [
+                "autoDiags": [
                     {
                         "cod": "0000",
                         "desc": "Sem falhas",
