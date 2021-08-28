@@ -3,6 +3,7 @@
         {
             "id": 1,
             "nome": "AVR",
+            "url": "https://treetech.atlassian.net/wiki/download/thumbnails/65601664/avr.png?version=1&modificationDate=1594658630751&cacheVersion=1&api=v2&width=125&height=124",
             "autoDiags": [
                 {
                     "cod": "0000",
@@ -21,6 +22,7 @@
         {
             "id": 2,
             "nome": "BM",
+            "url": "https://treetech.atlassian.net/wiki/download/thumbnails/65601664/di.png?version=1&modificationDate=1594658632487&cacheVersion=1&api=v2&width=125&height=124",
             "autoDiags": [
                 {
                     "cod": "0000",
@@ -39,6 +41,7 @@
         {
             "id": 3,
             "nome": "IDM-SDM",
+            "url": "https://treetech.atlassian.net/wiki/download/thumbnails/65601664/dm.png?version=1&modificationDate=1594658633615&cacheVersion=1&api=v2&width=125&height=124",
             "autoDiags": [
                 {
                     "cod": "0000",
